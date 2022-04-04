@@ -11,3 +11,10 @@
 |:------|:------|:------|
 |Tfidfvectorizer + Cosine similarity|Konlpy(Mecab),Sklearn(TfidfVectorizer, cosine_similarity)|[링크](https://github.com/threegenie/similarity_search/blob/main/0404_tfidf.ipynb)|
 |Faiss + SentenceBert|SentenceTransformer, Faiss|[링크](https://github.com/threegenie/similarity_search/blob/main/0404_faiss.ipynb)|
+
+#### 참고자료
+- https://lsjsj92.tistory.com/605
+- https://wikidocs.net/162007
+- https://wikidocs.net/154530
+- https://intrepidgeeks.com/tutorial/course-56-computer-search-using-fass
+- https://sikaleo.tistory.com/62
