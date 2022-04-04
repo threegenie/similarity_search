@@ -9,5 +9,5 @@
 
 |내용|사용한 패키지|파일 링크|
 |:------|:------|:------|
-|Tfidfvectorizer + Cosine similarity|Konlpy(Mecab),Sklearn(TfidfVectorizer, cosine_similarity)|링크|
+|Tfidfvectorizer + Cosine similarity|Konlpy(Mecab),Sklearn(TfidfVectorizer, cosine_similarity)|[링크](https://github.com/threegenie/similarity_search/blob/main/0404_tfidf.ipynb)|
 |Faiss + SentenceBert|SentenceTransformer, Faiss|[링크](https://github.com/threegenie/similarity_search/blob/main/0404_faiss.ipynb)|
